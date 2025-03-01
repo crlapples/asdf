@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "homepage": "https://crlapples.github.io/asdf"
+  "homepage": "https://crlapples.github.io/asdf",
   "version": "0.1.0",
   "private": true,
   "scripts": {
